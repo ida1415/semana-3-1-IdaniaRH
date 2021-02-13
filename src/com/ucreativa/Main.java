@@ -66,7 +66,7 @@ public class Main {
 	Bicicleta Bicicleta4 = new Bicicleta("Avid", "2X8", "MTB");
 
 	
-	System.out.println("Instanacia 2");
+	System.out.println("Instanacia 3");
 	System.out.println(Bicicleta1.toString());
 	System.out.println("==================");
 
